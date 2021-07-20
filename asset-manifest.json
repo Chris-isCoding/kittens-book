@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kittens-book/static/css/main.93422db9.chunk.css",
+    "main.js": "/kittens-book/static/js/main.bac4f610.chunk.js",
+    "main.js.map": "/kittens-book/static/js/main.bac4f610.chunk.js.map",
+    "runtime-main.js": "/kittens-book/static/js/runtime-main.5b9e317a.js",
+    "runtime-main.js.map": "/kittens-book/static/js/runtime-main.5b9e317a.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/kittens-book/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9d8d7f96.chunk.js": "/kittens-book/static/js/2.9d8d7f96.chunk.js",
+    "static/js/2.9d8d7f96.chunk.js.map": "/kittens-book/static/js/2.9d8d7f96.chunk.js.map",
+    "static/js/3.f9bfe6d3.chunk.js": "/kittens-book/static/js/3.f9bfe6d3.chunk.js",
+    "static/js/3.f9bfe6d3.chunk.js.map": "/kittens-book/static/js/3.f9bfe6d3.chunk.js.map",
+    "index.html": "/kittens-book/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/kittens-book/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.93422db9.chunk.css.map": "/kittens-book/static/css/main.93422db9.chunk.css.map",
+    "static/js/2.9d8d7f96.chunk.js.LICENSE.txt": "/kittens-book/static/js/2.9d8d7f96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b9e317a.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9d8d7f96.chunk.js",
+    "static/css/main.93422db9.chunk.css",
+    "static/js/main.bac4f610.chunk.js"
+  ]
+}
