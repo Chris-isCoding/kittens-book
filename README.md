@@ -1,5 +1,8 @@
 Deployed @ https://chris-iscoding.github.io/kittens-book/
 
+![Website](https://github.com/Chris-isCoding/kittens-book/blob/dev/img/kitten-book.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
