@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
 const Card = ({ name, email, id }) => (
-  <div className="tc grow bg-light-blue br3 pa3 ma2 dib bw2 shadow-5">
+  <div className='tc grow bg-light-blue br3 pa3 ma2 dib bw2 shadow-5'>
     <img
-      alt="sweet looking cartoon kitten face"
+      alt='sweet looking cartoon kitten face'
       src={`https://robohash.org/${id}?set=set4&size=200x200`}
     />
     <div>
